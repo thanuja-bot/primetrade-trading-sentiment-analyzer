@@ -1,0 +1,8 @@
+uploads = []
+generated = []
+
+[[outputs]]
+id = "oKjHXVO44KSELIj6OewtY"
+uri = "file://primetrade-trading-sentiment-analyzer.tar.gz"
+type = "unspecified"
+title = "Primetrade Trading Sentiment Analyzer — Full Source Code (All Advanced Features)"
